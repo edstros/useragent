@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edstros/useragent/issues"
   },
-  "homepage": "https://github.com/edstros/useragent#readme"
+  "homepage": "https://github.com/edstros/useragent#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
 }
