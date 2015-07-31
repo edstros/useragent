@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require('chalk');
+var chalk = require('chalk');
 var port = process.env.PORT || 1337;
 require('./lib/server')(port);
 
