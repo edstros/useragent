@@ -19,6 +19,7 @@
     "url": "https://github.com/edstros/useragent/issues"
   },
   "homepage": "https://github.com/edstros/useragent#readme",
+
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
@@ -27,5 +28,6 @@
     "chalk": "^1.1.0",
     "cheerio": "^0.19.0",
     "request": "^2.60.0"
+
   }
 }
